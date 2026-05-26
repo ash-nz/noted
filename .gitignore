@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+*.moved-aside
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Claude Code / agents (local-only, not tracked)
+CLAUDE.md
+.claude/
+
+# Misc
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
